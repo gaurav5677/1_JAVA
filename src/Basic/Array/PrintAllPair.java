@@ -2,11 +2,12 @@ package Basic.Array;
 
 public class PrintAllPair {
     public static void printAllp(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                System.out.println("(" + arr[i] + "," + arr[j] + ")");
-            }
+       int n = arr.length;
+       for( int i = 0 ; i<n-1;i++  ){
+           for (int j = i+1; j <n ; j++) {
+               System.out.println("("+ arr[i]+","+arr[j]+")");
+
+           }
         }
     }
 
