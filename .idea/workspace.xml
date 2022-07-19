@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 4 printAllPair">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Array/TripleSum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Bv4693xuJdB5axO7hrtOqW9Y3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gaurav/polishing/java programs/Intro_to_java/I.Intro_To_Java/src/patterns/RightSidedTriangle.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Sort01">
+    <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array.ArrayIntersection" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array.FindDuplicate" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array.PairSum" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array.Sort01" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripleSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array.TripleSum" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort01" />
+        <item itemvalue="Application.TripleSum" />
+        <item itemvalue="Application.PairSum" />
+        <item itemvalue="Application.ArrayIntersection" />
+        <item itemvalue="Application.FindDuplicate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="" />
+      <created>1657773051014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657773051014</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HelloWorld">
+      <created>1657773157465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657773157465</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HelloWorld">
+      <created>1657773229386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657773229386</updated>
+    </task>
+    <task id="LOCAL-00003" summary="addtion">
+      <created>1657773534326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657773534326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day1 average Marks">
+      <created>1657774638388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657774638388</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day 1  &#10;CharacterCase">
+      <created>1657777435973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657777435973</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day 1 temp converter">
+      <created>1657779098917</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657779098917</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 1">
+      <created>1657854069763</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657854069763</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 2 patterns">
+      <created>1657869003915</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657869003915</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;day 2 array">
+      <created>1657894680820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657894680820</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day 3 arrayUsingFunction">
+      <created>1657946390492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657946390492</updated>
+    </task>
+    <task id="LOCAL-00011" summary="day 3 ArraySum">
+      <created>1657947499092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657947499092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="day 3 LargestINArray">
+      <created>1657988873543</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657988873543</updated>
+    </task>
+    <task id="LOCAL-00013" summary="day 3 LinerSearch">
+      <created>1657992755599</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657992755599</updated>
+    </task>
+    <task id="LOCAL-00014" summary="day 3 ArrangeNumberinArray{in particular pattern}">
+      <created>1657998731092</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657998731092</updated>
+    </task>
+    <task id="LOCAL-00015" summary="day 4 printAllPair">
+      <created>1658080161460</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658080161460</updated>
+    </task>
+    <task id="LOCAL-00016" summary="day 4 printAllPair">
+      <created>1658080529773</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658080529773</updated>
+    </task>
+    <task id="LOCAL-00017" summary="day 5 SwapAlternative elements of the array">
+      <created>1658124414536</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658124414536</updated>
+    </task>
+    <task id="LOCAL-00018" summary="day 5  FInd Unique">
+      <created>1658137898025</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658137898025</updated>
+    </task>
+    <task id="LOCAL-00019" summary="day 5 find the Du[licat in the Array">
+      <created>1658153466803</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658153466803</updated>
+    </task>
+    <task id="LOCAL-00020" summary="day 5 Find Intersection between  two arrays">
+      <created>1658162732555</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658162732555</updated>
+    </task>
+    <task id="LOCAL-00021" summary="day 6 PairSum">
+      <created>1658207826142</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658207826142</updated>
+    </task>
+    <task id="LOCAL-00022" summary="day 6 Sort01">
+      <created>1658245160946</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245160947</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HelloWorld" />
+    <MESSAGE value="addtion" />
+    <MESSAGE value="day1 average Marks" />
+    <MESSAGE value="day 1  &#10;CharacterCase" />
+    <MESSAGE value="day 1 temp converter" />
+    <MESSAGE value="Day 1" />
+    <MESSAGE value="Day 2 patterns" />
+    <MESSAGE value="day 2 array" />
+    <MESSAGE value="&#10;day 2 array" />
+    <MESSAGE value="day 3 arrayUsingFunction" />
+    <MESSAGE value="day 3 ArraySum" />
+    <MESSAGE value="day 3 LargestINArray" />
+    <MESSAGE value="day 3 LinerSearch" />
+    <MESSAGE value="day 3 ArrangeNumberinArray{in particular pattern}" />
+    <MESSAGE value="day 4 printAllPair" />
+    <MESSAGE value="day 5 SwapAlternative elements of the array" />
+    <MESSAGE value="day 5  FInd Unique" />
+    <MESSAGE value="day 5 find the Du[licat in the Array" />
+    <MESSAGE value="day 5 printAllPair" />
+    <MESSAGE value="day 5 Find Intersection between  two arrays" />
+    <MESSAGE value="day 6 PairSum" />
+    <MESSAGE value="day 6 Sort01" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 6 Sort01" />
+  </component>
+</project>
