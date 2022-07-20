@@ -1,4 +1,4 @@
-package Basic;
+package Basic.SimpleOne;
 
 public class addtion {
     public static void main(String[] args) {
