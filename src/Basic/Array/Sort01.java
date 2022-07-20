@@ -29,9 +29,9 @@ public class Sort01 {
             if(arr[i]==1){
                 i++;
             }else{
-                int temp = arr[j];
-                arr[j]=arr[i];
-                arr[i]=temp;
+                int temp = arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
                 i++;
                 j++;
             }
