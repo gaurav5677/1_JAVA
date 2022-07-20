@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 4 printAllPair">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Array/TripleSum.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 6 TripleSum">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/gaurav/polishing/java programs/Intro_to_java/I.Intro_To_Java/src/patterns/RightSidedTriangle.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/gaurav/polishing/java programs/Intro_to_java/I.Intro_To_Java/src/patterns/RightSidedTriangle.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.Sort01">
+}]]></component>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="ArrayIntersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.Array.ArrayIntersection" />
       <module name="_100days" />
@@ -53,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Array.FindDuplicate" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Array2SearchingAlgo.BinarySearch" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Array.*" />
+          <option name="PATTERN" value="Basic.Array2SearchingAlgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Sort01" />
         <item itemvalue="Application.TripleSum" />
         <item itemvalue="Application.PairSum" />
         <item itemvalue="Application.ArrayIntersection" />
-        <item itemvalue="Application.FindDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -278,13 +275,52 @@
       <option name="project" value="LOCAL" />
       <updated>1658245160947</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="day 6 TripleSum">
+      <created>1658245185102</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658245185102</updated>
+    </task>
+    <task id="LOCAL-00024" summary="day 7 Sort 0 1 &#10;with 2 different apporach">
+      <created>1658290107853</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658290107853</updated>
+    </task>
+    <task id="LOCAL-00025" summary="day 1">
+      <created>1658302455957</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1658302455957</updated>
+    </task>
+    <task id="LOCAL-00026" summary="day 7 sort 0s and  1s">
+      <created>1658302552760</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658302552760</updated>
+    </task>
+    <task id="LOCAL-00027" summary="day 7 Searching algo {BinarySearch}">
+      <created>1658302596962</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1658302596962</updated>
+    </task>
+    <task id="LOCAL-00028" summary="day 7 Binary Search Algorithm">
+      <created>1658307429982</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1658307429982</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HelloWorld" />
-    <MESSAGE value="addtion" />
-    <MESSAGE value="day1 average Marks" />
     <MESSAGE value="day 1  &#10;CharacterCase" />
     <MESSAGE value="day 1 temp converter" />
     <MESSAGE value="Day 1" />
@@ -304,6 +340,12 @@
     <MESSAGE value="day 5 Find Intersection between  two arrays" />
     <MESSAGE value="day 6 PairSum" />
     <MESSAGE value="day 6 Sort01" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 6 Sort01" />
+    <MESSAGE value="day 6 TripleSum" />
+    <MESSAGE value="day 7 Sort 0 1 &#10;with 2 different apporach" />
+    <MESSAGE value="day 1" />
+    <MESSAGE value="day 7 sort 0s and  1s" />
+    <MESSAGE value="day 7 Searching algo {BinarySearch}" />
+    <MESSAGE value="day 7 Binary Search Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 7 Binary Search Algorithm" />
   </component>
 </project>
