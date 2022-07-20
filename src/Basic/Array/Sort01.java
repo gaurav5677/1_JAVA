@@ -22,25 +22,43 @@ public class Sort01 {
         }
     }
 
-    public static void SortZerosAndOne(int[] arr) {
-        int z = 0;
-        for (int i = 0; i < arr.length ; i++) {
-            if (arr[i] == 0) {
-                int temp = arr[z];
-                arr[z] = arr[i];
-                arr[i] = temp;
-                z+=1;
-
+    public static void SortZerosAndOne(int[]arr){
+        int i =0;
+        int j=0;
+        while( i< arr.length){
+            if(arr[i]==1){
+                i++;
+            }else{
+                int temp = arr[j];
+                arr[j]=arr[i];
+                arr[i]=temp;
+                i++;
+                j++;
             }
         }
 
-
     }
-//    public  static void printArray(int[]arr){
-//    int n = arr.length;
-//        for( int i = 0 ;i<n;i++){
-//            System.out.println(arr[i]);
+//Method !
+//    public static void SortZerosAndOne(int[] arr) {
+//        int z = 0;
+//        for (int i = 0; i < arr.length ; i++) {
+//            if (arr[i] == 0) {
+//                int temp = arr[z];
+//                arr[z] = arr[i];
+//                arr[i] = temp;
+//                z+=1;
+//
+//            }
+//        }
+//
+//
 //    }
+
+
+
+
+
+
 
     public static void main(String[] args) {
         int[] arr = takeInput();
