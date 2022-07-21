@@ -1,4 +1,4 @@
-package Basic.SimpleOne;
+package Basic._1SimpleOne;
 
 public class Main {
     public static void main(String[] args) {

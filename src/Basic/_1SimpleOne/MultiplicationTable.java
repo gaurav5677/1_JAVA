@@ -1,4 +1,4 @@
-package Basic.SimpleOne;
+package Basic._1SimpleOne;
 
 import java.util.Scanner;
 
