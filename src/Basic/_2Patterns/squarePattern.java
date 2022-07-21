@@ -1,4 +1,4 @@
-package Basic.Patterns;
+package Basic._2Patterns;
 
 public class squarePattern {
     public static void main(String[] args) {

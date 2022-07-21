@@ -1,4 +1,4 @@
-package Basic.Patterns;
+package Basic._2Patterns;
 
 public class RightSidedTriangle {
     //right sided increasing pattern
