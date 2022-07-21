@@ -1,4 +1,4 @@
-package Basic.Array;
+package Basic._3Array;
 
 public class ArrayIntersection {
     public static void InterSec(int[] arr1, int[] arr2) {

@@ -1,4 +1,4 @@
-package Basic.Array;
+package Basic._3Array;
 
 public class PrintAllPair {
     public static void printAllp(int[] arr) {
