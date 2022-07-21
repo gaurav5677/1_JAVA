@@ -3,7 +3,7 @@ package Basic._4Array2SearchingAlgo;
 
 import java.util.Scanner;
 
-public class BinarySearch {
+public class _1BinarySearch {
     static Scanner s = new Scanner(System.in);
 
     public static int BinaryS(int[] arr) {
