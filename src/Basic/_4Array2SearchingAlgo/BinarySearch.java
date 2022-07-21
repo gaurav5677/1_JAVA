@@ -1,4 +1,4 @@
-package Basic.Array2SearchingAlgo;
+package Basic._4Array2SearchingAlgo;
 
 
 import java.util.Scanner;
