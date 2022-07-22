@@ -1,6 +1,6 @@
 package Basic._4Array2SearchingAlgo;
 
-public class _4BubbleSort {
+public class _3BubbleSort {
     public static void main(String[] args) {
 
         int[] arr = {9, 5, 4, 0, 3, 1, 2};

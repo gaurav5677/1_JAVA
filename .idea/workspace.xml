@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_2SelectionSortMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -369,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658464638338</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="day 8">
+      <created>1658483538443</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1658483538443</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -395,9 +400,20 @@
     <MESSAGE value="day 1" />
     <MESSAGE value="day 2" />
     <MESSAGE value="day 4 to 7" />
-    <MESSAGE value="day 8" />
     <MESSAGE value="day 8  using funcitons" />
     <MESSAGE value="day9 (BubbleSort) &#10;using funcitons" />
-    <option name="LAST_COMMIT_MESSAGE" value="day9 (BubbleSort) &#10;using funcitons" />
+    <MESSAGE value="day 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4InsertionSort.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
