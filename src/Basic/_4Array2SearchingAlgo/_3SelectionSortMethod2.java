@@ -1,14 +1,12 @@
 package Basic._4Array2SearchingAlgo;
 
 
-
-
 public class _3SelectionSortMethod2 {
 
     public static void main(String[] args) {
         int[] arr = {9, 5, 4, 0, 3, 1, 2};
         SelectionSo(arr);
-printArray(arr);
+        printArray(arr);
     }
 
 
@@ -25,8 +23,8 @@ printArray(arr);
         }
     }
 
-    public static void printArray(int[]arr){
-        for (int i = 0; i < arr.length ; i++) {
+    public static void printArray(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
     }
@@ -46,7 +44,6 @@ printArray(arr);
             return false;
         }
     }
-
 
 
 }

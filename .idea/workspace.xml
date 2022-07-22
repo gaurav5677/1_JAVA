@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 8  using funcitons">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_1BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +38,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._3SelectionSortMethod2">
+  <component name="RunManager" selected="Application._4BubbleSort">
     <configuration name="Basic._4Array2SearchingAlgo._2Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._2Selection_Sort" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._3Array.Sort01" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._3Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_4BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._4BubbleSort" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._4BubbleSort" />
         <item itemvalue="Application._3SelectionSortMethod2" />
         <item itemvalue="Application.Basic._4Array2SearchingAlgo._2Selection_Sort" />
         <item itemvalue="Application._1BinarySearch" />
-        <item itemvalue="Application.Basic._3Array.Sort01" />
-        <item itemvalue="Application.Basic._3Array.TripleSum" />
       </list>
     </recent_temporary>
   </component>
@@ -354,11 +353,17 @@
       <option name="project" value="LOCAL" />
       <updated>1658378376511</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="day 8  using funcitons">
+      <created>1658387405553</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1658387405553</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Day 2 patterns" />
     <MESSAGE value="day 2 array" />
     <MESSAGE value="&#10;day 2 array" />
     <MESSAGE value="day 3 arrayUsingFunction" />
@@ -383,6 +388,7 @@
     <MESSAGE value="day 2" />
     <MESSAGE value="day 4 to 7" />
     <MESSAGE value="day 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 8" />
+    <MESSAGE value="day 8  using funcitons" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 8  using funcitons" />
   </component>
 </project>
