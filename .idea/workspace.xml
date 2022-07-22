@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 8  using funcitons">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4BubbleSort.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3SelectionSortMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_2SelectionSortMethod2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_3BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,34 +39,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._4BubbleSort">
-    <configuration name="Basic._4Array2SearchingAlgo._2Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._2Selection_Sort" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TripleSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._3Array.TripleSum" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._3Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_1BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application._4InsertionSort">
+    <configuration name="Basic._4Array2SearchingAlgo._1BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._1BinarySearch" />
       <module name="_100days" />
       <extension name="coverage">
@@ -78,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3SelectionSortMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._3SelectionSortMethod2" />
+    <configuration name="Basic._4Array2SearchingAlgo._3BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._3BubbleSort" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +66,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._4BubbleSort" />
+    <configuration name="_2SelectionSortMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._2SelectionSortMethod2" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._2Selection_Sort" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._4InsertionSort" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
@@ -106,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._4BubbleSort" />
-        <item itemvalue="Application._3SelectionSortMethod2" />
+        <item itemvalue="Application._4InsertionSort" />
+        <item itemvalue="Application.Basic._4Array2SearchingAlgo._3BubbleSort" />
+        <item itemvalue="Application.Basic._4Array2SearchingAlgo._2SelectionSortMethod2" />
         <item itemvalue="Application.Basic._4Array2SearchingAlgo._2Selection_Sort" />
-        <item itemvalue="Application._1BinarySearch" />
+        <item itemvalue="Application.Basic._4Array2SearchingAlgo._1BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -360,11 +362,17 @@
       <option name="project" value="LOCAL" />
       <updated>1658387405553</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="day9 (BubbleSort) &#10;using funcitons">
+      <created>1658464638338</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1658464638338</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 2 array" />
     <MESSAGE value="&#10;day 2 array" />
     <MESSAGE value="day 3 arrayUsingFunction" />
     <MESSAGE value="day 3 ArraySum" />
@@ -389,6 +397,7 @@
     <MESSAGE value="day 4 to 7" />
     <MESSAGE value="day 8" />
     <MESSAGE value="day 8  using funcitons" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 8  using funcitons" />
+    <MESSAGE value="day9 (BubbleSort) &#10;using funcitons" />
+    <option name="LAST_COMMIT_MESSAGE" value="day9 (BubbleSort) &#10;using funcitons" />
   </component>
 </project>
