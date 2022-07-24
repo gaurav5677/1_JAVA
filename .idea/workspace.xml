@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_6PushZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_6PushZerosToEnd.java" afterDir="false" />
-    </list>
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -394,11 +391,17 @@
       <option name="project" value="LOCAL" />
       <updated>1658594421039</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="&#10;day 10">
+      <created>1658595169374</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1658595169374</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 3 ArraySum" />
     <MESSAGE value="day 3 LargestINArray" />
     <MESSAGE value="day 3 LinerSearch" />
     <MESSAGE value="day 3 ArrangeNumberinArray{in particular pattern}" />
@@ -423,7 +426,8 @@
     <MESSAGE value="day 8" />
     <MESSAGE value="day 9" />
     <MESSAGE value="day 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 10" />
+    <MESSAGE value="&#10;day 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;day 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
