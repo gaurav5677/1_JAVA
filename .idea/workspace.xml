@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_6PushZerosToEndMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_6PushZerosToEndMethod2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._6PushZerosToEndMethod2">
-    <configuration name="Basic._4Array2SearchingAlgo._3BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._3BubbleSort" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._7RotateAnArray">
     <configuration name="_4InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._4InsertionSort" />
       <module name="_100days" />
@@ -102,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_7RotateAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._7RotateAnArray" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._7RotateAnArray" />
         <item itemvalue="Application._6PushZerosToEndMethod2" />
         <item itemvalue="Application._6PushZerosToEnd" />
         <item itemvalue="Application._5MergeSortedArray" />
         <item itemvalue="Application._4InsertionSort" />
-        <item itemvalue="Application.Basic._4Array2SearchingAlgo._3BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658638314208</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="day 11">
+      <created>1658677461072</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1658677461072</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -438,6 +447,7 @@
     <MESSAGE value="&#10;day 10" />
     <MESSAGE value="day 11" />
     <option name="LAST_COMMIT_MESSAGE" value="day 11" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
