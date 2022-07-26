@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_10Sort01And2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_11SumoftwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_9CheckArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._8SecondLargestInArray">
-    <configuration name="_5MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._5MergeSortedArray" />
+  <component name="RunManager" selected="Application._11SumoftwoArray">
+    <configuration name="_10Sort01And2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._10Sort01And2" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
@@ -48,34 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6PushZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._6PushZerosToEnd" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_6PushZerosToEndMethod2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._6PushZerosToEndMethod2" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_7RotateAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._7RotateAnArray" />
+    <configuration name="_11SumoftwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._11SumoftwoArray" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +82,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_9CheckArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._9CheckArrayRotation" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="asdjhfkjdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo.asdjhfkjdf" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._11SumoftwoArray" />
+        <item itemvalue="Application._10Sort01And2" />
+        <item itemvalue="Application._9CheckArrayRotation" />
+        <item itemvalue="Application.asdjhfkjdf" />
         <item itemvalue="Application._8SecondLargestInArray" />
-        <item itemvalue="Application._7RotateAnArray" />
-        <item itemvalue="Application._6PushZerosToEndMethod2" />
-        <item itemvalue="Application._6PushZerosToEnd" />
-        <item itemvalue="Application._5MergeSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658772425416</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="day 12">
+      <created>1658773557004</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1658773557004</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
