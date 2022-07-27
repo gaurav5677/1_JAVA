@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 12">
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_1Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_2SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_3StrringInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_4Code_printAllCharsofString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_5CoundWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_6ReversAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_7CheckPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_1Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_1Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_2SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_3StrringInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_3StrringInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_4Code_printAllCharsofString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_4Code_printAllCharsofString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_5CoundWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_5CoundWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_6ReversAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/Strings/_7CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_7CheckPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._7CheckPalindrome">
+  <component name="RunManager" selected="Application.Basic._5Strings._7CheckPalindrome">
     <configuration name="_3StrringInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Strings._3StrringInput" />
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._3StrringInput" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Strings.*" />
+          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,11 +57,11 @@
       </method>
     </configuration>
     <configuration name="_4Code_printAllCharsofString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Strings._4Code_printAllCharsofString" />
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._4Code_printAllCharsofString" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Strings.*" />
+          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +70,11 @@
       </method>
     </configuration>
     <configuration name="_5CoundWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Strings._5CoundWords" />
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._5CoundWords" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Strings.*" />
+          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +83,11 @@
       </method>
     </configuration>
     <configuration name="_6ReversAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Strings._6ReversAString" />
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._6ReversAString" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Strings.*" />
+          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +96,11 @@
       </method>
     </configuration>
     <configuration name="_7CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.Strings._7CheckPalindrome" />
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._7CheckPalindrome" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic.Strings.*" />
+          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._7CheckPalindrome" />
-        <item itemvalue="Application._6ReversAString" />
-        <item itemvalue="Application._5CoundWords" />
-        <item itemvalue="Application._4Code_printAllCharsofString" />
-        <item itemvalue="Application._3StrringInput" />
+        <item itemvalue="Application.Basic._5Strings._7CheckPalindrome" />
+        <item itemvalue="Application.Basic._5Strings._6ReversAString" />
+        <item itemvalue="Application.Basic._5Strings._5CoundWords" />
+        <item itemvalue="Application.Basic._5Strings._4Code_printAllCharsofString" />
+        <item itemvalue="Application.Basic._5Strings._3StrringInput" />
       </list>
     </recent_temporary>
   </component>
@@ -129,27 +126,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00001" summary="HelloWorld">
-      <created>1657773157465</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1657773157465</updated>
-    </task>
-    <task id="LOCAL-00002" summary="HelloWorld">
-      <created>1657773229386</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1657773229386</updated>
-    </task>
-    <task id="LOCAL-00003" summary="addtion">
-      <created>1657773534326</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1657773534326</updated>
     </task>
     <task id="LOCAL-00004" summary="day1 average Marks">
       <created>1657774638388</created>
@@ -445,11 +421,59 @@
       <option name="project" value="LOCAL" />
       <updated>1658773557004</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="day 14">
+      <created>1658944988634</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1658944988634</updated>
+    </task>
+    <task id="LOCAL-00047" summary="day 12">
+      <created>1658945010684</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945010684</updated>
+    </task>
+    <task id="LOCAL-00048" summary="day 12">
+      <created>1658945031362</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945031362</updated>
+    </task>
+    <task id="LOCAL-00049" summary="day 12">
+      <created>1658945046931</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945046931</updated>
+    </task>
+    <task id="LOCAL-00050" summary="day 12">
+      <created>1658945064082</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945064083</updated>
+    </task>
+    <task id="LOCAL-00051" summary="day 12">
+      <created>1658945083527</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945083527</updated>
+    </task>
+    <task id="LOCAL-00052" summary="day 14">
+      <created>1658945106134</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1658945106135</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 3 ArrangeNumberinArray{in particular pattern}" />
     <MESSAGE value="day 4 printAllPair" />
     <MESSAGE value="day 5 SwapAlternative elements of the array" />
     <MESSAGE value="day 5  FInd Unique" />
@@ -474,7 +498,8 @@
     <MESSAGE value="&#10;day 10" />
     <MESSAGE value="day 11" />
     <MESSAGE value="day 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 12" />
+    <MESSAGE value="day 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -486,9 +511,9 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Basic/Strings/_7CheckPalindrome.java</url>
+          <url>file://$PROJECT_DIR$/src/Basic/_5Strings/_7CheckPalindrome.java</url>
           <line>3</line>
-          <properties class="Basic.Strings._7CheckPalindrome" method="main">
+          <properties class="Basic._5Strings._7CheckPalindrome" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

@@ -1,4 +1,4 @@
-package Basic.Strings;
+package Basic._5Strings;
 
 
 import java.util.Scanner;

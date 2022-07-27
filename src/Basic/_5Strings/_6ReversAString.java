@@ -1,4 +1,4 @@
-package Basic.Strings;
+package Basic._5Strings;
 
 public class _6ReversAString {
     public static String  ReversStr( String str ){

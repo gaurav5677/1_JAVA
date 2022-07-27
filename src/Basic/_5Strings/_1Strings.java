@@ -1,4 +1,4 @@
-package Basic.Strings;
+package Basic._5Strings;
 
 public class _1Strings {
     public static void main(String[] args) {

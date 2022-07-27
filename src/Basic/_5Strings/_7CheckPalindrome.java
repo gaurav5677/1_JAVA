@@ -1,4 +1,4 @@
-package Basic.Strings;
+package Basic._5Strings;
 
 public class _7CheckPalindrome {
     public static void main(String[] args) {
