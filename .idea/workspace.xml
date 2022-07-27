@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_10Sort01And2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_11SumoftwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_9CheckArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 12">
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_1Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_2SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_3StrringInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_4Code_printAllCharsofString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_5CoundWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_6ReversAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Strings/_7CheckPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_7RotateAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_8SecondLargestInArray.java" afterDir="false" />
@@ -42,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._11SumoftwoArray">
-    <configuration name="_10Sort01And2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._10Sort01And2" />
+  <component name="RunManager" selected="Application._7CheckPalindrome">
+    <configuration name="_3StrringInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Strings._3StrringInput" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="PATTERN" value="Basic.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11SumoftwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._11SumoftwoArray" />
+    <configuration name="_4Code_printAllCharsofString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Strings._4Code_printAllCharsofString" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="PATTERN" value="Basic.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8SecondLargestInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._8SecondLargestInArray" />
+    <configuration name="_5CoundWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Strings._5CoundWords" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="PATTERN" value="Basic.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9CheckArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo._9CheckArrayRotation" />
+    <configuration name="_6ReversAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Strings._6ReversAString" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="PATTERN" value="Basic.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="asdjhfkjdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._4Array2SearchingAlgo.asdjhfkjdf" />
+    <configuration name="_7CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.Strings._7CheckPalindrome" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._4Array2SearchingAlgo.*" />
+          <option name="PATTERN" value="Basic.Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._11SumoftwoArray" />
-        <item itemvalue="Application._10Sort01And2" />
-        <item itemvalue="Application._9CheckArrayRotation" />
-        <item itemvalue="Application.asdjhfkjdf" />
-        <item itemvalue="Application._8SecondLargestInArray" />
+        <item itemvalue="Application._7CheckPalindrome" />
+        <item itemvalue="Application._6ReversAString" />
+        <item itemvalue="Application._5CoundWords" />
+        <item itemvalue="Application._4Code_printAllCharsofString" />
+        <item itemvalue="Application._3StrringInput" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +484,15 @@
           <url>file://$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/_4InsertionSort.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Basic/Strings/_7CheckPalindrome.java</url>
+          <line>3</line>
+          <properties class="Basic.Strings._7CheckPalindrome" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
