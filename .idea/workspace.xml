@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_8PrintAllSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_9ReverseEachword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_5Strings/asdfasfd.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_9ReverseEachword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_9ReverseEachword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._9ReverseEachword">
-    <configuration name="_2SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._2SubString" />
+  <component name="RunManager" selected="Application._10Reverse_String_Word_Wise">
+    <configuration name="_10Reverse_String_Word_Wise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._10Reverse_String_Word_Wise" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._10Reverse_String_Word_Wise" />
         <item itemvalue="Application._9ReverseEachword" />
         <item itemvalue="Application.asdfasfd" />
         <item itemvalue="Application._6ReversAString" />
         <item itemvalue="Application._8PrintAllSubString" />
-        <item itemvalue="Application._2SubString" />
       </list>
     </recent_temporary>
   </component>
@@ -127,41 +124,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00005" summary="day 1  &#10;CharacterCase">
-      <created>1657777435973</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1657777435973</updated>
-    </task>
-    <task id="LOCAL-00006" summary="day 1 temp converter">
-      <created>1657779098917</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1657779098917</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Day 1">
-      <created>1657854069763</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1657854069763</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Day 2 patterns">
-      <created>1657869003915</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1657869003915</updated>
-    </task>
-    <task id="LOCAL-00009" summary="&#10;day 2 array">
-      <created>1657894680820</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1657894680820</updated>
     </task>
     <task id="LOCAL-00010" summary="day 3 arrayUsingFunction">
       <created>1657946390492</created>
@@ -471,11 +433,56 @@
       <option name="project" value="LOCAL" />
       <updated>1658945185850</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="day 15">
+      <created>1659032347156</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1659032347156</updated>
+    </task>
+    <task id="LOCAL-00055" summary="day 15">
+      <created>1659032516611</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1659032516612</updated>
+    </task>
+    <task id="LOCAL-00056" summary="day 15">
+      <created>1659032547866</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1659032547866</updated>
+    </task>
+    <task id="LOCAL-00057" summary="day 15">
+      <created>1659032568113</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1659032568113</updated>
+    </task>
+    <task id="LOCAL-00058" summary="day 15">
+      <created>1659032586803</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1659032586803</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 4 printAllPair" />
     <MESSAGE value="day 5 SwapAlternative elements of the array" />
     <MESSAGE value="day 5  FInd Unique" />
     <MESSAGE value="day 5 find the Du[licat in the Array" />
@@ -500,7 +507,8 @@
     <MESSAGE value="day 11" />
     <MESSAGE value="day 12" />
     <MESSAGE value="day 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 14" />
+    <MESSAGE value="day 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 15" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -522,12 +530,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Basic/_5Strings/_8PrintAllSubString.java</url>
-          <line>5</line>
+          <line>3</line>
           <properties class="Basic._5Strings._8PrintAllSubString" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java</url>
+          <line>3</line>
+          <properties class="Basic._5Strings._10Reverse_String_Word_Wise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

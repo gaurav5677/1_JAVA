@@ -3,33 +3,43 @@ package Basic._5Strings;
 
 public class _9ReverseEachword {
     public static void main(String[] args) {
-        String str = "abc deg ghi";
-        System.out.println(ReversEach(str));
+        String str = "abc def ghi jkl";
+        System.out.println(ReverseEachW(str));
     }
 
-    public static String ReversEach(String str) {
-        String news = " ";
-        int Counter = 0;
-        for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) == ' ') {
-                //revers Current word
-                int CouterEnd = i - 1;
-                String revers = " ";
-                for (int j = Counter; j <= CouterEnd; j++) {
+    public static String ReverseEachW(String a) {
+        String ans = " ";
 
-                    news = str.charAt(j) + revers;
+        int CWStart = 0;
+        int i;
+        for (i = 0; i < a.length(); i++) {
 
-                    // add it  final string(news)
-
-
+            if (a.charAt(i) == ' ') {
+                // Reverse Each word
+                int CWend = i - 1;
+                String RW = " ";
+                for (int j = CWStart; j <= CWend; j++) {
+                    RW = a.charAt(j) + RW;
                 }
-                news = news + revers + " ";
-                Counter=i+1;
+                //Add if find string
+                ans += RW + " ";
+                CWStart = i + 1;
             }
 
+        }
 
-        }            return news;
+        //Reverse the  last world
+        // Reverse Each word
+        int CWend = i - 1;
+        String RW = " ";
+        for (int j = CWStart; j <= CWend; j++) {
+            RW = a.charAt(j) + RW;
+        }
+        //Add if find string
+        ans += RW;
 
+
+        return ans;
     }
 }
 
