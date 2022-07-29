@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_9ReverseEachword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_9ReverseEachword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,13 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00010" summary="day 3 arrayUsingFunction">
-      <created>1657946390492</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1657946390492</updated>
     </task>
     <task id="LOCAL-00011" summary="day 3 ArraySum">
       <created>1657947499092</created>
@@ -468,7 +459,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659032586803</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="day 16">
+      <created>1659116996415</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1659116996415</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 5 SwapAlternative elements of the array" />
     <MESSAGE value="day 5  FInd Unique" />
     <MESSAGE value="day 5 find the Du[licat in the Array" />
     <MESSAGE value="day 5 printAllPair" />
@@ -508,7 +505,8 @@
     <MESSAGE value="day 12" />
     <MESSAGE value="day 14" />
     <MESSAGE value="day 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 15" />
+    <MESSAGE value="day 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 16" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
