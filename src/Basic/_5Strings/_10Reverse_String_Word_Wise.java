@@ -2,7 +2,7 @@ package Basic._5Strings;
 
 public class _10Reverse_String_Word_Wise {
     public static void main(String[] args) {
-        String str = "hey there a";
+        String str = "hey there a and then ";
         System.out.println(ReversString(str));
     }
 
