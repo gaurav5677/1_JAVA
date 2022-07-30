@@ -5,7 +5,10 @@ public class asdjhfkjdf {
         String str1 = "abc";
         String str2 = "";
         System.out.println(str1.contains(str2));
+//
+
+        }
     }
-}
+
 
 
