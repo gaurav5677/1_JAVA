@@ -14,6 +14,10 @@ public class _6ReversAString {
             reversStr= str.charAt(i)+reversStr;
 
         }
+
+        // method 3
+
+
         return reversStr;
     }
     public static void main(String[] args) {

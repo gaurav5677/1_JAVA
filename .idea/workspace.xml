@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 16">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_4Array2SearchingAlgo/asdjhfkjdf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_10Reverse_String_Word_Wise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_11CheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_11CheckPermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_12RemoveConsecutiveDuplicaties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_12RemoveConsecutiveDuplicaties.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_13ReverseEAchWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_13ReverseEAchWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_2SubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/_6ReversAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Basic/_5Strings/asdfasfd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_5Strings/asdfasfd.java" afterDir="false" />
     </list>
@@ -128,13 +125,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00014" summary="day 3 ArrangeNumberinArray{in particular pattern}">
-      <created>1657998731092</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1657998731092</updated>
     </task>
     <task id="LOCAL-00015" summary="day 4 printAllPair">
       <created>1658080161460</created>
@@ -472,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659118883730</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="day 14">
+      <created>1659205144280</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1659205144280</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,10 +506,10 @@
     <MESSAGE value="&#10;day 10" />
     <MESSAGE value="day 11" />
     <MESSAGE value="day 12" />
-    <MESSAGE value="day 14" />
     <MESSAGE value="day 15" />
     <MESSAGE value="day 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 16" />
+    <MESSAGE value="day 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
