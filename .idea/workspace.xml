@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._13ReverseEAchWord">
+  <component name="RunManager" selected="Application._10Reverse_String_Word_Wise">
     <configuration name="_10Reverse_String_Word_Wise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._5Strings._10Reverse_String_Word_Wise" />
       <module name="_100days" />
@@ -109,9 +109,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._10Reverse_String_Word_Wise" />
         <item itemvalue="Application._13ReverseEAchWord" />
         <item itemvalue="Application._6ReversAString" />
-        <item itemvalue="Application._10Reverse_String_Word_Wise" />
         <item itemvalue="Application._12RemoveConsecutiveDuplicaties" />
         <item itemvalue="Application.asdfasfd" />
       </list>
