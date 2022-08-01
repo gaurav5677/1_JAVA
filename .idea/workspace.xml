@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 16+1">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_2InputAndPrint2DArray.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_3Stored2dArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_4FunctionsWith2dArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._2InputAndPrint2DArray">
+  <component name="RunManager" selected="Application._4FunctionsWith2dArray">
     <configuration name="CharacterCase" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._1SimpleOne.CharacterCase" />
       <module name="_100days" />
@@ -56,19 +58,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Basic._1SimpleOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_15HighestOccuringCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._5Strings._15HighestOccuringCharacter" />
-      <module name="_100days" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic._5Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_4FunctionsWith2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic._6_TwoDimentional_Array._4FunctionsWith2dArray" />
+      <module name="_100days" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic._6_TwoDimentional_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._4FunctionsWith2dArray" />
         <item itemvalue="Application._2InputAndPrint2DArray" />
         <item itemvalue="Application._1Basic_2D_array" />
         <item itemvalue="Application.CheckFOr_binary" />
         <item itemvalue="Application._16CompressString" />
-        <item itemvalue="Application._15HighestOccuringCharacter" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00024" summary="day 7 Sort 0 1 &#10;with 2 different apporach">
-      <created>1658290107853</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1658290107853</updated>
     </task>
     <task id="LOCAL-00025" summary="day 1">
       <created>1658302455957</created>
@@ -477,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659291782656</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="day 18">
+      <created>1659292076643</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1659292076643</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
