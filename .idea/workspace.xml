@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_2Patterns/HollowSquarePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_10TotalSumOnTheBoundariesAndDiangonals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_6LargestColumnSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_6LargestColumnSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_9LargestRowOrColumn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic/_6_TwoDimentional_Array/_9LargestRowOrColumn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,34 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00031" summary="day 2">
-      <created>1658378264370</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1658378264370</updated>
-    </task>
-    <task id="LOCAL-00032" summary="day 4 to 7">
-      <created>1658378330028</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1658378330028</updated>
-    </task>
-    <task id="LOCAL-00033" summary="day 8">
-      <created>1658378376511</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1658378376511</updated>
-    </task>
-    <task id="LOCAL-00034" summary="day 8  using funcitons">
-      <created>1658387405553</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1658387405553</updated>
     </task>
     <task id="LOCAL-00035" summary="day9 (BubbleSort) &#10;using funcitons">
       <created>1658464638338</created>
@@ -481,7 +450,35 @@
       <option name="project" value="LOCAL" />
       <updated>1659463491547</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="day 21">
+      <created>1659539805739</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1659539805739</updated>
+    </task>
+    <task id="LOCAL-00081" summary="day 21">
+      <created>1659539838343</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1659539838359</updated>
+    </task>
+    <task id="LOCAL-00082" summary="day 21">
+      <created>1659539877611</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1659539877626</updated>
+    </task>
+    <task id="LOCAL-00083" summary="day 21">
+      <created>1659539900185</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1659539900185</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -496,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 5 Find Intersection between  two arrays" />
     <MESSAGE value="day 6 PairSum" />
     <MESSAGE value="day 6 Sort01" />
     <MESSAGE value="day 7 Sort 0 1 &#10;with 2 different apporach" />
@@ -521,7 +517,8 @@
     <MESSAGE value="day 16+1" />
     <MESSAGE value="day 18" />
     <MESSAGE value="day 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 20" />
+    <MESSAGE value="day 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 21" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
