@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 23( OOPs := Class file )">
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_3Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_4StudentUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_5Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_6New_5Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_7GetterAndSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temp/ClassAbdObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/temp/StudentUse2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._2OppsUse">
+  <component name="RunManager" selected="Application._4StudentUse">
     <configuration name="ArrayBoundried" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._6_TwoDimentional_Array.ArrayBoundried" />
       <module name="_100days" />
@@ -104,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9LargestRowOrColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._6_TwoDimentional_Array._9LargestRowOrColumn" />
+    <configuration name="_4StudentUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_IN_JAVA._1OOps._4StudentUse" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._6_TwoDimentional_Array.*" />
+          <option name="PATTERN" value="DSA_IN_JAVA._1OOps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._4StudentUse" />
         <item itemvalue="Application._2OppsUse" />
         <item itemvalue="Application.ArrayBoundried" />
         <item itemvalue="Application.HollowSquarePattern" />
         <item itemvalue="Application._10TotalSumOnTheBoundariesAndDiangonals" />
-        <item itemvalue="Application._9LargestRowOrColumn" />
       </list>
     </recent_temporary>
   </component>
@@ -135,20 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00036" summary="day 8">
-      <created>1658483538443</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1658483538443</updated>
-    </task>
-    <task id="LOCAL-00037" summary="day 9">
-      <created>1658483568192</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1658483568192</updated>
     </task>
     <task id="LOCAL-00038" summary="day 9">
       <created>1658594398196</created>
@@ -479,7 +472,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659617646759</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="day 23(Startin OOPS)">
+      <created>1659722971680</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1659722971681</updated>
+    </task>
+    <task id="LOCAL-00086" summary="day 23( OOPs := Class file )">
+      <created>1659723002168</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1659723002168</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,8 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 6 Sort01" />
-    <MESSAGE value="day 7 Sort 0 1 &#10;with 2 different apporach" />
     <MESSAGE value="day 7 sort 0s and  1s" />
     <MESSAGE value="day 7 Searching algo {BinarySearch}" />
     <MESSAGE value="day 7 Binary Search Algorithm" />
@@ -519,7 +524,9 @@
     <MESSAGE value="day 20" />
     <MESSAGE value="day 21" />
     <MESSAGE value="day 22(off)" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 22(off)" />
+    <MESSAGE value="day 23(Startin OOPS)" />
+    <MESSAGE value="day 23( OOPs := Class file )" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 23( OOPs := Class file )" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
