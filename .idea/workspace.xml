@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 23( OOPs := Class file )">
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_3Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_4StudentUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_5Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_6New_5Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_7GetterAndSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp/ClassAbdObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp/StudentUse2.java" afterDir="false" />
+    <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 24">
+      <change afterPath="$PROJECT_DIR$/src/Basic/_7patterns/asmple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/Studentuse2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_3Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_4StudentUse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_5Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_6New_5Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_7GetterAndSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temp/ClassAbdObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temp/StudentUse2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -41,11 +44,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/gaurav/polishing/java programs/Intro_to_java/I.Intro_To_Java/src/patterns/RightSidedTriangle.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/100daysOfCoding/1.IntroToJava/_100days/src/DSA_IN_JAVA/_1OOPs&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._4StudentUse">
+  <component name="RunManager" selected="Application.DSA_IN_JAVA.ClassesAndObjects.Studentuse2">
     <configuration name="ArrayBoundried" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic._6_TwoDimentional_Array.ArrayBoundried" />
       <module name="_100days" />
@@ -72,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HollowSquarePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._2Patterns.HollowSquarePattern" />
+    <configuration name="DSA_IN_JAVA.ClassesAndObjects.Studentuse2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA_IN_JAVA.ClassesAndObjects.Studentuse2" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._2Patterns.*" />
+          <option name="PATTERN" value="DSA_IN_JAVA._1OOPS.ClassesAndObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_10TotalSumOnTheBoundariesAndDiangonals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic._6_TwoDimentional_Array._10TotalSumOnTheBoundariesAndDiangonals" />
+    <configuration name="Student_uyse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temporary.Student_uyse" />
       <module name="_100days" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basic._6_TwoDimentional_Array.*" />
+          <option name="PATTERN" value="temporary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DSA_IN_JAVA.ClassesAndObjects.Studentuse2" />
+        <item itemvalue="Application.Student_uyse" />
         <item itemvalue="Application._4StudentUse" />
         <item itemvalue="Application._2OppsUse" />
         <item itemvalue="Application.ArrayBoundried" />
-        <item itemvalue="Application.HollowSquarePattern" />
-        <item itemvalue="Application._10TotalSumOnTheBoundariesAndDiangonals" />
       </list>
     </recent_temporary>
   </component>
@@ -142,48 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657773051014</updated>
-    </task>
-    <task id="LOCAL-00038" summary="day 9">
-      <created>1658594398196</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1658594398196</updated>
-    </task>
-    <task id="LOCAL-00039" summary="day 10">
-      <created>1658594421039</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1658594421039</updated>
-    </task>
-    <task id="LOCAL-00040" summary="&#10;day 10">
-      <created>1658595169374</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1658595169374</updated>
-    </task>
-    <task id="LOCAL-00041" summary="day 11">
-      <created>1658638314208</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1658638314208</updated>
-    </task>
-    <task id="LOCAL-00042" summary="day 11">
-      <created>1658677461072</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1658677461072</updated>
-    </task>
-    <task id="LOCAL-00043" summary="day 12">
-      <created>1658772337784</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1658772337790</updated>
     </task>
     <task id="LOCAL-00044" summary="day 12">
       <created>1658772425416</created>
@@ -486,7 +447,49 @@
       <option name="project" value="LOCAL" />
       <updated>1659723002168</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="day 24">
+      <created>1659808997952</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1659808997952</updated>
+    </task>
+    <task id="LOCAL-00088" summary="day 23( OOPs := Class file )">
+      <created>1659809044590</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809044590</updated>
+    </task>
+    <task id="LOCAL-00089" summary="day 24">
+      <created>1659809075758</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809075758</updated>
+    </task>
+    <task id="LOCAL-00090" summary="day 24">
+      <created>1659809105629</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809105629</updated>
+    </task>
+    <task id="LOCAL-00091" summary="day 24">
+      <created>1659809127382</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809127382</updated>
+    </task>
+    <task id="LOCAL-00092" summary="day 24">
+      <created>1659809145427</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809145428</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="day 7 sort 0s and  1s" />
     <MESSAGE value="day 7 Searching algo {BinarySearch}" />
     <MESSAGE value="day 7 Binary Search Algorithm" />
     <MESSAGE value="day 6 TripleSum" />
@@ -526,7 +528,8 @@
     <MESSAGE value="day 22(off)" />
     <MESSAGE value="day 23(Startin OOPS)" />
     <MESSAGE value="day 23( OOPs := Class file )" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 23( OOPs := Class file )" />
+    <MESSAGE value="day 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 24" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
