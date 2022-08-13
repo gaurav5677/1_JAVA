@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9617ede2-8fad-485f-a747-93309018dbf6" name="Changes" comment="day 24">
-      <change afterPath="$PROJECT_DIR$/src/Basic/_7patterns/asmple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA_IN_JAVA/Studentuse2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_1OOPS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_2OppsUse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_3Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_4StudentUse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_5Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_6New_5Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA_IN_JAVA/_1OOps/_7GetterAndSetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/temp/ClassAbdObjects.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/temp/StudentUse2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +33,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/100daysOfCoding/1.IntroToJava/_100days/src/DSA_IN_JAVA/_1OOPs&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/100daysOfCoding/_100days/1.IntroToJava&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
